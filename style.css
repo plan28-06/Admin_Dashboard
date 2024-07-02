@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 22.5vw 77.5vw; 
+    grid-template-rows: 100vh;
+}
+
+.lhs{
+    background-color:rgb(10, 147, 231);
+}
+
+.white{
+    color: white;
+}
+
+.dashboard{
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
