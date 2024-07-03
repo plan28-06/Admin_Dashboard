@@ -30,3 +30,112 @@ body{
     top: 30px;
     left: 100px;
 }
+
+.gridpng{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 35px;
+    left: 60px;
+    background-size: cover;
+}
+
+.sidebar-list ul{
+    list-style-type: none;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 150px;
+    left: 105px;
+    line-height:50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#home{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 10px;
+    right:165px;
+    fill: white;
+}
+
+#profile{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 60px;
+    right: 165px;
+    fill: white;
+}
+
+#messages{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 110px;
+    right: 165px;
+    fill: white;
+}
+
+#history{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 160px;
+    right: 165px;
+    fill: white;
+}
+
+#tasks{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 210px;
+    right: 165px;
+    fill: white;
+}
+
+#communities{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 260px;
+    right: 165px;
+    fill: white;
+}
+
+.sidebar-sec2{
+    margin-top: 90px;
+}
+
+#settings{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 400px;
+    right: 160px;
+    fill: white;
+}
+
+#support{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 450px;
+    right: 160px;
+    fill: white;
+}
+
+#privacy{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 500px;
+    right: 160px;
+    fill: white;
+}
