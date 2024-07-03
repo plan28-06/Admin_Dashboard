@@ -1,7 +1,7 @@
 # Admin_Dashboard
 
 ## Website Link 
-For a live preview please visit [__Admin Dashboard.__](plan28-06.github.io/Admin_Dashboard/)
+For a live preview please visit [__Admin Dashboard.__](https://plan28-06.github.io/Admin_Dashboard/)
 
 
 ## **Note**
